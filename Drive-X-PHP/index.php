@@ -57,7 +57,7 @@ require_once "data.repo.php";
 
             <div class="card-header bg-dark text-white">
                 <h2 class="card-title">
-                    <?= $drivers[0]["fullName"] ?>
+                    <?= $drivers[1]["fullName"] ?>
                 </h2>
             </div>
 
