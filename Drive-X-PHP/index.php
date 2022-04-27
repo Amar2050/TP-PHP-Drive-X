@@ -103,7 +103,7 @@ require_once "data.repo.php";
                     <span><?= $cars[0]["pays"] ?></span>
                 </p>
 
-                <p>Puissance: <span class="badge badge-warning"> <?= $cars[1]["power"] ?> </span> </p>
+                <p>Puissance: <span class="badge badge-warning"> <?= $cars[0]["power"] ?> </span> </p>
 
                 <p>0 à 100 km/h: <span><?= $cars[0]["perf"] ?> sec</span></p>
 
